@@ -13,6 +13,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- os Ticket system
 
 <h2>Operating Systems Used </h2>
 
@@ -22,7 +23,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Create Tickets as a User on help desk center
 - Work tickets as an Agent and updating priority
-- Assign Tickets to Departments and adding SLA to tickets based on priority 
+- Assign Tickets to Departments and assigning SLA to tickets based on priority 
 - Updating and Resolving tickets as working Agent
 
 <h2>Lifecycle Stages</h2>
